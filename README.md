@@ -4,14 +4,15 @@
 
 <p>It's one from my school python projects...</p>
 <p>In this desktop app, you can create a graph to calculate the throw of an object at a specific angle. Below is the formula used for the calculations:</p>
-<img width="252" height="113" alt="image" src="https://github.com/user-attachments/assets/d2a8332d-ad6a-49a6-817e-af1956090902" />
+<img width="499" height="106" alt="image" src="https://github.com/user-attachments/assets/df666057-ee75-4c8a-869d-b7df8323285a" />
+
 
 <hr>
 <h3>Screenshots</h3> 
 
-<img width="767" height="344" alt="image" src="https://github.com/user-attachments/assets/e07cc564-3126-494a-a9f4-91ffe80e2c33" />
+<img width="487" height="245" alt="image" src="https://github.com/user-attachments/assets/37370fe8-32a5-4fd0-b848-51500cb6bfa8" />
+<img width="487" height="245" alt="image" src="https://github.com/user-attachments/assets/b96809d2-15bb-4d1b-a348-01a471a796e7" />
 
-<img width="597" height="374" alt="image" src="https://github.com/user-attachments/assets/42e8771c-2446-480a-8637-ad7c1e69f8f1" />
 
 
 <h3>Release</h3>
